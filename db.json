@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "Andrew",
+      "body": "is a human",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "title": "another one",
+      "body": "test",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "title": "Testing-Hide",
+      "body": "The original form should be hidden and the returned response should be displayed.",
+      "userId": 1,
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "title": "first one",
+      "body": "a comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
